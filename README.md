@@ -8,4 +8,5 @@
 5. Then git commit -m "<Commit message>".
 6. Use git push or git push origin main to send the file to your working repository.
 7. Then create a pull request which will be merged.
-
+# Assignments
+>Create a program that takes the weight of a person as user input and if in pounds convert to kg and vice versal
